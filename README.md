@@ -14,8 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/riajul-hasan-2935072a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riajul-hasan-2935072a1/" height="30" width="40" /></a>
-<a href="https://fb.com/riajul hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riajul hasan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/riajul-hasan-2935072a1?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3brlr6wwhcrtgua5bif09cla%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riajul-hasan-2935072a1?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3brlr6wwhcrtgua5bif09cla%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/riajul_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riajul_hasan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/riajul_siam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="riajul_siam" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rhsiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rhsiam" height="30" width="40" /></a>
