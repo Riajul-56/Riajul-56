@@ -6,13 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riajul-56&label=Profile%20views&color=0e75b6&style=flat" alt="riajul-56" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riajul-56" alt="riajul-56" /></a> </p>
+- 🔭 I’m currently working on: [Exclusive](https://github.com/Riajul-56/Exclusive)
 
-- 🔭 I’m currently working on [Exclusive](https://github.com/Riajul-56/Exclusive)
+- 🌱 I’m currently learning: **Mern stack development**
 
-- 🌱 I’m currently learning **Mern stack development**
-
-- 📫 How to reach me **riajulhasansiam@gmail.com**
+- 📫 How to reach me: **riajulhasansiam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
