@@ -1,4 +1,4 @@
-![logo](https://github.com/Riajul-56/Riajul-56/blob/main/Github%20Banner.png)
+![logo](https://github.com/Riajul-56/Riajul-56/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Riajul Hasan</h1>
 <h3 align="center">I'm Riajul Hasan a passionate Front-End Developer.</h3>
 
