@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riajul-56&label=Profile%20views&color=0e75b6&style=flat" alt="riajul-56" /> </p>
 
-- 🔭 I’m currently working on: [Exclusive](https://beautiful-croissant-c83588.netlify.app/)
+- 🔭 I’m currently working on: [Exclusive](https://exclusive-smoky.vercel.app/)
 
 - 🌱 I’m currently learning: **Mern stack development**
 
