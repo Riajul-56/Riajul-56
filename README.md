@@ -1,4 +1,4 @@
-![logo](https://github.com/Riajul-56/Riajul-56/blob/main/banner_one.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Riajul Hasan</h1>
 <h3 align="center">I'm Riajul Hasan a passionate Mern Stack Developer.</h3>
 
