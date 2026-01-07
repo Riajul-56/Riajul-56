@@ -11,27 +11,6 @@
 
 I'm a passionate **MERN Stack Developer** with expertise in building robust and scalable web applications. I love turning ideas into reality through clean code and innovative solutions.
 
-```javascript
-const riajul = {
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  technologies: {
-    frontEnd: {
-      frameworks: ["React", "Next.js"],
-      styling: ["Tailwind CSS", "Bootstrap", "Material-UI"],
-      stateManagement: ["Redux", "Context API", "Zustand"]
-    },
-    backEnd: {
-      runtime: ["Node.js"],
-      frameworks: ["Express.js"],
-      databases: ["MongoDB", "PostgreSQL", "MySQL"]
-    },
-    tools: ["Git", "Docker", "VS Code", "Postman", "Figma"]
-  },
-  currentFocus: "Building scalable full-stack applications",
-  funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-```
-
 ## 🛠️ Tech Stack
 
 <p align="center">
