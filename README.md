@@ -1,19 +1,25 @@
 ![Banner](https://github.com/Riajul-56/Riajul-56/blob/main/Riajuls_linkedin_banner.png)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0CE82B&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Riajul+Hasan;Full+Stack+MERN+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0CE82B&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Riajul+Hasan;Full+Stack+MERN+Developer;Building+Scalable+Web+Applications" 
+    alt="Typing SVG" 
+  />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Riajul-56&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=Riajul-56&label=Profile%20Views&color=0e75b6&style=flat" 
+    alt="Profile Views" 
+  />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a passionate **Full Stack MERN Developer** focused on building **scalable, performant, and user-friendly web applications**.  
-I enjoy turning complex problems into clean, maintainable solutions.
+I’m a **Full Stack MERN Developer** passionate about building **scalable, maintainable, and performance-focused web applications**.  
+I enjoy solving real-world problems with clean architecture and modern technologies.
 
 ---
 
@@ -38,12 +44,16 @@ I enjoy turning complex problems into clean, maintainable solutions.
 ## 📊 GitHub Stats (Dynamic)
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Riajul-56&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Riajul-56&theme=radical&hide_border=true"/>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Riajul-56&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riajul-56&layout=compact&theme=radical&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riajul-56&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
+  />
 </div>
 
 ---
@@ -51,7 +61,9 @@ I enjoy turning complex problems into clean, maintainable solutions.
 ## 🏆 GitHub Trophies (Dynamic)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Riajul-56&theme=radical&no-frame=true&margin-w=10"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Riajul-56&theme=radical&no-frame=true&margin-w=15"
+  />
 </p>
 
 ---
@@ -59,7 +71,9 @@ I enjoy turning complex problems into clean, maintainable solutions.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riajul-56&theme=react-dark&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Riajul-56&theme=react-dark"
+  />
 </p>
 
 ---
@@ -68,7 +82,10 @@ I enjoy turning complex problems into clean, maintainable solutions.
 
 <p align="center">
   <a href="https://github.com/Riajul-56?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img 
+      src="https://img.shields.io/badge/View_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white" 
+      alt="View Projects"
+    />
   </a>
 </p>
 
@@ -96,16 +113,20 @@ I enjoy turning complex problems into clean, maintainable solutions.
 ## 💡 Currently
 
 - 🔭 Building scalable MERN & Next.js applications  
-- 🌱 Improving system design & backend architecture  
+- 🌱 Improving backend architecture & system design  
 - 👯 Open to open-source collaboration  
 - ⚡ Debugging feels like solving a crime you secretly caused  
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" 
+  />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=0CE82B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Let's+build+something+awesome!;Happy+Coding!+🚀"/>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=0CE82B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Let's+build+something+awesome!;Happy+Coding!+🚀" 
+  />
 </p>
