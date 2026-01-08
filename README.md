@@ -39,7 +39,7 @@ I enjoy solving real-world problems with clean architecture and modern technolog
 
 ---
 
-## 📊 GitHub Stats (Dynamic)
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
   <img
@@ -56,7 +56,7 @@ I enjoy solving real-world problems with clean architecture and modern technolog
 
 ---
 
-## 🏆 GitHub Trophies (Dynamic)
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
 <p align="center">
   <img
