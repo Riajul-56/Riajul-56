@@ -2,8 +2,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0CE82B&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Riajul+Hasan;Full+Stack+MERN+Developer;Building+Scalable+Web+Applications" 
-    alt="Typing SVG" 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0CE82B&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Riajul+Hasan;Full+Stack+MERN+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
   />
 </div>
 
@@ -127,6 +126,6 @@ I enjoy solving real-world problems with clean architecture and modern technolog
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=0CE82B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Let's+build+something+awesome!;Happy+Coding!+🚀" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=0CE82B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%AD%90;Let's+connect+and+build+something+awesome!;Happy+Coding!+%F0%9F%9A%80" alt="Footer Typing" />
   />
 </p>
