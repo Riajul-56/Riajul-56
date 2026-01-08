@@ -1,5 +1,3 @@
-![Banner](https://github.com/Riajul-56/Riajul-56/blob/main/Riajuls_linkedin_banner.png)
-
 <div align="center">
   <img 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0CE82B&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Riajul+Hasan;Full+Stack+MERN+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
